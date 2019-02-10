@@ -5,17 +5,14 @@ Rigid beam-beam, beam-column steel connection designing plugin to SOLDIS PROJEKT
 Whole project was written in Python 2.7.
 Unfortunetly this plugin cannot be run standalone, so I put here some pictures of it. There's the whole paper attached, where all algorithm are explained.
 
+#### User interface
 ![Screenshot](UI.png)
 
-User interface
-
+#### Beam to Beam connection example
 ![Screenshot](beam-beam.png)
 
-Beam to Beam connection example
-
+#### Beam to Column connection example
 ![Screenshot](beam-column.png)
-
-Beam to Column connection example
 
 ## Authors
 Łukasz Szczeciński
